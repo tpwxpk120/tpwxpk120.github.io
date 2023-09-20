@@ -9,7 +9,7 @@ Created By: Peng Tao
 Release: [Homepage]([https://tpwxpk120.github.io])  
 
 ### Project Objective:
-The objective of this project is to create a personal homepage that effectively showcases my professional work experiences, skills, and personal background. Developed as part of the CS5610 Web Development class at Northeastern University, this project utilizes HTML, CSS, Bootstrap, and JavaScript to build a visually appealing and user-friendly website. 
+The objective of this project is to create a personal homepage that effectively showcases my project experiences, skills, and personal background. Developed as part of the CS5610 Web Development class at Northeastern University, this project utilizes HTML, CSS, Bootstrap, and JavaScript to build a visually appealing and user-friendly website. 
 
 ### Screenshot:
 ![1](https://github.com/tpwxpk120/tpwxpk120.github.io/assets/129124105/87f8453c-71d5-442e-b30d-a8ef9f291ee7)
@@ -20,5 +20,9 @@ The objective of this project is to create a personal homepage that effectively 
 ###  Tech Requirements:
 HTML5, CSS3, Bootstrap5, JavaScript
 
-## Installation
+## Installation：
 Direct access to the web page：https://tpwxpk120.github.io
+
+## Presentation Link：
+
+## Video demonstrating Link：
