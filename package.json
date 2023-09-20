@@ -1,0 +1,15 @@
+{
+  "name": "tpwxpk120.github.io-main",
+  "version": "1.0.0",
+  "description": "Using JavaScript, CSS, HTML, and Bootstrap v5.2.1.                                                                            CS 5610 Web Development:  [Class Link](https://johnguerra.co/classes/webDevelopment_fall_2022/)                          Northeastern University Bay Area                                                     Instructor: John Alexis Guerra Gómez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peng Tao",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.49.0"
+  }
+}
