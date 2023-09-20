@@ -1,0 +1,86 @@
+nav,
+.nav-links {
+    display: flex;
+}
+
+nav {
+    justify-content: space-around;
+    align-items: center;
+    height: 17vh;
+}
+
+.nav-links {
+    gap: 2rem;
+    list-style: none;
+    font-size: 1.5rem;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    text-decoration-color: white;
+}
+
+a:hover {
+    color: grey;
+    text-decoration: underline;
+    text-underline-offset: 1rem;
+    text-decoration-color: rgb(181, 181, 181);
+}
+
+.logo {
+    font-size: 2rem;
+}
+
+.logo:hover {
+    cursor: default;
+}
+
+body {
+    background: linear-gradient(0.25turn, #FD9961, #E9E1D2, #8CE96C);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    min-height: 100vh;
+}
+
+h1{
+    color: #181515;
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+
+.column {
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+    float: center;
+     
+}
+
+.text{
+    color: #181515;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+
+.info{
+    color: #181515;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+
+.fa-github {
+    color: #171515;
+}
+
+.fa-envelope{
+        color: #171515;
+}
+
+footer {
+    text-align: center;
+}
