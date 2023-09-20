@@ -24,5 +24,7 @@ HTML5, CSS3, Bootstrap5, JavaScript
 Direct access to the web page：https://tpwxpk120.github.io
 
 #### Presentation Link：
+https://docs.google.com/presentation/d/1TcLUQEgNeJ-eZpmES1PnCVjBA7c7Uo7eHgngx04aw8A/edit?usp=sharing
 
 #### Video demonstrating Link：
+https://youtu.be/YgiVbaRgT8A
